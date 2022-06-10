@@ -1,0 +1,18 @@
+[Icon Theme]
+Name=IcoSystem
+Comment=IcoSystem icon theme
+Inherits=hicolor
+Directories=128x128/apps,scalable/apps
+
+
+[128x128/apps]
+Context=Applications
+Size=128
+Type=Fixed
+
+[scalable/apps]
+Context=Applications
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
